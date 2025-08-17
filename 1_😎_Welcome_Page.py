@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Welcome to Katha",
     page_icon="👋",
 )
-st.image("https://csrbox.org/organization/org_logo/1610086570Katha%20Logo%20Final.jpg", caption="")
+#st.image("https://csrbox.org/organization/org_logo/1610086570Katha%20Logo%20Final.jpg", caption="")
 st.title(
     "About Katha - An AI Application"
 )
